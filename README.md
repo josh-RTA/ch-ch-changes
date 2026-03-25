@@ -27,18 +27,18 @@ I'm also going to apply three global changes to the run as a whole:
 
 Global: 3
 
-Castle Escape:      11
-Eastern Palace:      8
-Desert Palace:      16
-Tower of Hera:       9
-Agahnim's Tower:    13
-Palace of Darkness: 11
-Thieves' Town:      10
-Skull Woods:        12
-Ice Palace:         17
-Swamp Palace:       17
-Misery Mire:        15
-Turtle Rock:        18
-Ganon's Tower:      21
+1. Castle Escape:      11
+1. Eastern Palace:      8
+1. Desert Palace:      16
+1. Tower of Hera:       9
+1. Agahnim's Tower:    13
+1. Palace of Darkness: 11
+1. Thieves' Town:      10
+1. Skull Woods:        12
+1. Ice Palace:         17
+1. Swamp Palace:       17
+1. Misery Mire:        15
+1. Turtle Rock:        18
+1. Ganon's Tower:      21
 
 TOTAL: 181
