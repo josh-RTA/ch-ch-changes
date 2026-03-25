@@ -29,7 +29,7 @@ Global: 3
 
 1. Castle Escape:      11
 1. Eastern Palace:      8
-1. Desert Palace:      16
+1. Desert Palace:      15
 1. Tower of Hera:       9
 1. Agahnim's Tower:    13
 1. Palace of Darkness: 11
@@ -41,4 +41,4 @@ Global: 3
 1. Turtle Rock:        18
 1. Ganon's Tower:      21
 
-TOTAL: 181
+TOTAL: 180

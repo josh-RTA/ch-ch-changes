@@ -31,8 +31,8 @@
 | Torch Key            | ✅       | Various new things; dominant strat when I started was 4 dash |
 | NW Room²             | ❌       |                                     |
 | North Hall²          | ✅       | In the Krystal era, no one moved down any on this screen or the next. The movement most people currently do was popularized by gt5.|
-| NE Room¹             | ✅       |                                     |
-| East Wing¹           | ✅       | Holding down to start this screen to stay on-grid. |
+| NE Room¹             | ✅       | Holding down to stay on-grid.       |
+| East Wing¹           | ❌       |                                     |
 | Compass Room¹        | ❌       |                                     |
 | Big Key Chest        | ✅       | There's mostly better understanding here about the different patterns, especially the desync pattern |
 | Compass Room²        | ❌       |                                     |
@@ -56,4 +56,4 @@
 | Torch Room           | ❌       |                                     |
 | Lanmolas             | ✅       | no bombmolas; 3rd worm kills        |
 
-TOTAL: 16
+TOTAL: 15
