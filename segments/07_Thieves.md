@@ -17,7 +17,7 @@
 | Kakariko Village     | ✅       | Post duck spinspeed (i guess lol)   |
 | Apple Tree           | ❌       |                                     |
 | Lost Woods           | ❌       |                                     |
-| Warp Rock            | ❌       |                                     |
+| Warp Rock            | ✅       | Holding v> out of first dash        |
 | North of Outcasts    | ❌       |                                     |
 | Village of Outcasts  | ❌       |                                     |
 | SW Quadrant¹         | ❌       |                                     |
@@ -56,4 +56,4 @@
 | Blind                | ✅       | Another small meta change on entering the fight; The exact way people execute the script also has some changes for better automating things |
 
 
-TOTAL: 10
+TOTAL: 11

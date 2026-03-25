@@ -33,7 +33,7 @@ Global: 3
 1. Tower of Hera:       9
 1. Agahnim's Tower:    13
 1. Palace of Darkness: 11
-1. Thieves' Town:      10
+1. Thieves' Town:      11
 1. Skull Woods:        12
 1. Ice Palace:         17
 1. Swamp Palace:       17
@@ -41,4 +41,4 @@ Global: 3
 1. Turtle Rock:        18
 1. Ganon's Tower:      21
 
-TOTAL: 180
+TOTAL: 181
